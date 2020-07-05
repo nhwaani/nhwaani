@@ -1,4 +1,4 @@
-- I am a **Software Engineer** @[noon](https://noon.com).
+#### I am a **Software Engineer** working at Dubai/UAE
 - I came from remote area of the world known as **KASHMIR**. 
 - I have completed my masters in **Computer Applications** aka (M.C.A) from the [University of Kashmir North Campus](http://northcampus.uok.edu.in/)
 - I smoke and eat **code** , i work mostly on backend technologies like **mysql**, **python**, **flask**, **docker**, **kubernetes**, **gcp**, **php**.
