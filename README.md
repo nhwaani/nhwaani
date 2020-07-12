@@ -5,5 +5,5 @@
 - I smoke and eat **code** , i work mostly on backend technologies like **mysql**, **python**, **flask**, **docker**, **kubernetes**, **gcp**, **php**.
 - I strongly believe that **The perfect code is no code at all**, you and your code grow with time , and you need to embrace it .
 - I dont ship code without **test-cases**, i prefer to work as a team rather then solo, as i believe that in order to do big things u need to learn to **STAND ON THE SHOULDERS OF GAINTS** in your field.
-- I love **api** based approach to web development, since the day i worked with them.
+- I have become fond of writing less code, and tend to code based on the principle of *The Last Responsible Moment* try not to over-engineer things thinking too much about future
 - Reach me out on twitter [@nhwaani](https://twitter.com/nhwaani)
